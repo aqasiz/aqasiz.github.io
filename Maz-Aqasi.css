@@ -317,8 +317,8 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
+  font-weight: 400;
   background-image: none;
-  font-weight: normal;
   margin: 18px auto 0 118px;
   padding: 3px 65px 4px 64px;
 }
@@ -327,6 +327,8 @@
   height: 3px;
   transform-origin: center top 0px;
   width: 250px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
   margin: -216px auto 0 109px;
 }
 
@@ -334,6 +336,9 @@
   height: 3px;
   transform-origin: center top 0px;
   width: 250px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: 0px;
   margin: 79px auto 0 109px;
 }
 
@@ -535,7 +540,6 @@
 
   .u-section-1 .u-repeater-1 {
     min-height: 3722px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -699,7 +703,6 @@
   }
 
   .u-section-1 .u-btn-1 {
-    font-weight: 400;
     margin-top: 34px;
     margin-left: auto;
   }
