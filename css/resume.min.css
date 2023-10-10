@@ -14,7 +14,7 @@ body {
 h1, h2 {
     font-family: 'Times new roman', serif;
     font-weight: 500;
-    color: rgb(0, 76, 143);
+    color: #00073e;
 }
 
 h3, h4, h5, h6 {
@@ -169,7 +169,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-    color: #0050c8!important;
+    color: #00073e!important;
 }
 
 a {
