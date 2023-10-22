@@ -70,7 +70,9 @@ h2 {
 .fa-li.fa-leaf {
     color: rgb(119, 188, 0); /* Change to any color you prefer */
 }
-
+.fa-li.fa-paperclip {
+    color: rgb(119, 188, 0); /* Change to any color you prefer */
+}
 .fa-li.fa-flask {
     color: rgb(151, 0, 210); /* Change to any color you prefer */
 }
