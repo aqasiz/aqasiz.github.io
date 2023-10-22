@@ -59,7 +59,7 @@ h2 {
 
 
 .fa-li.fa-star {
-    color: rgb(255, 145, 0); /* Change to any color you prefer */
+    color: rgb(255, 0, 0); /* Change to any color you prefer */
 }
 
 .fa-ul li {
@@ -67,12 +67,12 @@ h2 {
     margin-bottom: 7px;
 }
 
-.fa-li.fa-heart {
-    color: rgb(163, 8, 0); /* Change to any color you prefer */
+.fa-li.fa-leaf {
+    color: rgb(119, 188, 0); /* Change to any color you prefer */
 }
 
 .fa-li.fa-flask {
-    color: rgb(0, 140, 255); /* Change to any color you prefer */
+    color: rgb(151, 0, 210); /* Change to any color you prefer */
 }
 
 
