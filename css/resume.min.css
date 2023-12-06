@@ -80,7 +80,11 @@ h2 {
 
 
 .fa-li.fa-star {
-    color: rgb(255, 0, 0); /* Change to any color you prefer */
+    color: rgb(204, 0, 0); /* Change to any color you prefer */
+}
+
+.fa-li.fa-certificate {
+    color: rgb(204, 0, 0); /* Change to any color you prefer */
 }
 
 .fa-ul li {
@@ -89,7 +93,7 @@ h2 {
 }
 
 .fa-li.fa-paperclip {
-    color: rgb(119, 188, 0); /* Change to any color you prefer */
+    color: rgb(108, 170, 0); /* Change to any color you prefer */
 }
 
 .fa-li.fa-flask {
